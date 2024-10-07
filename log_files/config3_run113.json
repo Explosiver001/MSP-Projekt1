@@ -1,0 +1,6 @@
+{
+  "configuration": "config3",
+  "run": 113,
+  "runtime": 0,
+  "status": "SEGFAULT"
+}
